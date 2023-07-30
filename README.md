@@ -2,7 +2,7 @@
 
 This repository contains all of the code necessary for downloading the data, conducting our analyses, and generating the results detailed in the following paper:
 
-Kamal, M. R., & Wahlstrøm, R. R. (2023). Cryptocurrencies and the threat versus the act of geopolitical risk. *Finance Research Letters*
+Kamal, M. R., & Wahlstrøm, R. R. (2023). Cryptocurrencies and the threat versus the act event of geopolitical risk. *Finance Research Letters*, 57, 104224. https://doi.org/10.1016/j.frl.2023.104224
 
 ## 1_download_data_Binance.py
 The code in this file downloads all the data and stores it in a folder named "data_CCs". Please note that due to restrictions from the provider, we are not permitted to share the data. However, the code in the file allows for the direct download of all the data used.
