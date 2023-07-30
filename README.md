@@ -1,4 +1,4 @@
-# Cryptocurrencies and the threat versus the act of geopolitical risk
+# Cryptocurrencies and the threat versus the act event of geopolitical risk
 
 This repository contains all of the code necessary for downloading the data, conducting our analyses, and generating the results detailed in the following paper:
 
